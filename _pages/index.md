@@ -21,9 +21,13 @@ Youtubeでは原曲が3000万再生以上あります。他にcoverだとニコ�
 -オススメのOrangestar曲　　
 
 　　・快晴　　
+  
  ・Henceforth　　
+ 
  ・Uz　　
+　
  ・霽れを待つ　　
+ 
 
 ## 歌い手のめありー　　
 
@@ -34,8 +38,11 @@ Youtubeでは原曲が3000万再生以上あります。他にcoverだとニコ�
 -オススメのめありーcover曲　　
 
 　　・空奏列車　　
+  
  ・ビビッド　　
+ 
  ・初めての恋が終わる時　　
+ 
 　　・わたしのアール　　
 　　
 
@@ -44,4 +51,7 @@ Youtubeでは原曲が3000万再生以上あります。他にcoverだとニコ�
 
 
 
+
 ![image](/220422_GitHubPages/assets/images/logo-150.png)
+
+
